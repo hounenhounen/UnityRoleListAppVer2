@@ -1,0 +1,17 @@
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/UnityEngine.dll
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/UnityEditor.dll
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/Mono.Cecil.dll
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/Unity.DataContract.dll
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/kawahara/Desktop/UnityLoginApp/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/kawahara/Desktop/UnityLoginApp/obj/Debug/Assembly-CSharp.dll
+/Users/kawahara/Desktop/UnityLoginApp/obj/Debug/Assembly-CSharp.dll.mdb
